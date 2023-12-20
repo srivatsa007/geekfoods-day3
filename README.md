@@ -2,7 +2,11 @@
 ____
 [Hosted Link!!](https://main--lucent-frangollo-264405.netlify.app/)
 ____
+## screengrabs
+![image](https://github.com/srivatsa007/geekfoods-day3/assets/70172502/4ae64e10-e00e-4a81-adcf-3ab0aca3ab21)
+![image](https://github.com/srivatsa007/geekfoods-day3/assets/70172502/a2ae6b6f-22f3-4ba3-8deb-5309e9a4796e)
 
+___
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
